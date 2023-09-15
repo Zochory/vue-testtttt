@@ -15,3 +15,4 @@ const items = [{
 <template>
   <UTabs :items="items" />
 </template>
+// End
